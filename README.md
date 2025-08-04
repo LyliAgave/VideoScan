@@ -14,7 +14,7 @@ The official implementation of VideoScan+. which is a novel online video inferen
 
 ## 📅 **Timeline**
 
-- **5 Aug 2025**: VideoScan+ official implementation is released! 🚀🚀🚀
+[**NEW!** 2025.08.05]: VideoScan+ official implementation is released! 🚀🚀🚀
 
 ## 🧐 Quick Start
 
