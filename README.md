@@ -1,5 +1,5 @@
 # VideoScan
-The official implementation of VideoScan+. which is a novel online video inference framework that achieves extremely reduced latency and memory usage.
+The official implementation of VideoScan+, which is a novel online video inference framework that achieves extremely reduced latency and memory usage.
 
 <!-- <p align="center">
     <img src="assets/logo.png" width="400"/>
@@ -34,7 +34,7 @@ python infer.py
 
 1. **Online Streaming Video Inference**:
 ```python
-python stream_infer.p
+python stream_infer.py
 ```
 
 ### Training
