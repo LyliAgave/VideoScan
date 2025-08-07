@@ -35,11 +35,11 @@ pip install -r requirements.txt
 python infer.py
 ```
 
-1. **Online Streaming Video Inference**:
+2. **Online Streaming Video Inference**:
 ```python
 python stream_infer.py
 ```
-
+<!-- 
 ### Training
 
 1. Stage 1 Training:
@@ -50,7 +50,7 @@ bash scripts/train_stg1.sh
 2. Stage 2 Training:
 ```bash
 bash scripts/train_stg2.sh
-```
+``` -->
 
 
 ## 📝 Citation
