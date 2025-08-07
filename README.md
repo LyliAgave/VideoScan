@@ -1,4 +1,7 @@
 # VideoScan
+
+[![arxiv-paper](https://img.shields.io/badge/arxiv-paper-red)](https://arxiv.org/abs/2503.09387)
+
 The official implementation of VideoScan+, which is a novel online video inference framework that achieves extremely reduced latency and memory usage.
 
 <!-- <p align="center">
@@ -50,18 +53,18 @@ bash scripts/train_stg2.sh
 ```
 
 
-<!-- ## 📝 Citation
+## 📝 Citation
 
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{videoscan2024,
-  title={VideoScan: Ultra-efficient Online Video Inference},
-  author={Authors},
-  journal={arXiv preprint},
-  year={2024}
+@article{li2025videoscan,
+  title={VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers},
+  author={Li, Ruanjun and Tan, Yuedong and Shi, Yuanming and Shao, Jiawei},
+  journal={arXiv preprint arXiv:2503.09387},
+  year={2025}
 }
-``` -->
+```
 
 ## 📄 License
 
