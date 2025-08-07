@@ -1,6 +1,6 @@
 # VideoScan
 
-[![arxiv-paper](https://img.shields.io/badge/arxiv-2025.03-red)](https://arxiv.org/abs/2503.09387)
+[![arxiv-paper](https://img.shields.io/badge/arxiv-paper-red)](https://arxiv.org/abs/2503.09387)
 
 The official implementation of VideoScan+, which is a novel online video inference framework that achieves extremely reduced latency and memory usage.
 
